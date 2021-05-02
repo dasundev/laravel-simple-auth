@@ -1,0 +1,31 @@
+{
+    "name": "dasundev/laravel-simple-auth",
+    "description": "A Simple method to create laravel authentication for an existing laravel project.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dasun Tharanga",
+            "email": "dasuntharangaflash@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravel/ui": "^1.0|^2.4"
+    },
+    "require-dev": {
+        "laravel/framework": "^6.0|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dasundev\\LaravelSimpleAuth\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dasundev\\LaravelSimpleAuth\\LaravelSimpleAuthProvider"
+            ]
+        }
+    },
+    "prefer-stable": true
+}
