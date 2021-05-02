@@ -9,6 +9,9 @@
         }
     ],
     "minimum-stability": "dev",
+    "require": {
+        "laravel/ui": "^1.0"
+    },
     "autoload": {
         "psr-4": {
             "Dasundev\\LaravelSimpleAuth\\": "src/"
