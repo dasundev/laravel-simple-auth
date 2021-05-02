@@ -1,11 +1,12 @@
 # Laravel Simple Auth
 A Simple method to create laravel authentication for an existing laravel project.
 
-Why I created this kind of package? Well, Suppose sometimes we forget to add `--auth` into a new project creation command, we will have to run below two commands
-to make the laravel default authentication like below. 
+Why I created this kind of package? Well, Suppose sometimes we forget to add `--auth` into a new project creation command, we will have to run below three commands
+to make the laravel default authentication. 
 
 01. `composer require laravel/ui`
 02. `php artisan ui bootstrap --auth`
+03. `npm install && npm run dev`
 
 I know it's really annoying 😕 because we have to run two commands for make it. but before releasing the laravel 6.0
 we could the same thing in one command. which is,
