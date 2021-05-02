@@ -22,6 +22,7 @@ class MakeCommand extends Command
         $authType = $this->argument('auth-type');
 
         Artisan::call('ui ' . $authType . ' --auth');
+        shell_exec('npm install && npm run dev --force');
 
         $this->line('');
         $this->line('Default authentication successfully created. Thanks for using the <fg=green;options=bold>laravel simple auth</> package! 😘');
