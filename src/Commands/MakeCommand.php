@@ -24,6 +24,6 @@ class MakeCommand extends Command
         Artisan::call('ui ' . $authType . ' --auth');
 
         $this->line('');
-        $this->line('Thanks for using the <fg=green;options=bold>laravel simple auth</> package! 😘');
+        $this->line('Default authentication successfully created. Thanks for using the <fg=green;options=bold>laravel simple auth</> package! 😘');
     }
 }
