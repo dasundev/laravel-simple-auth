@@ -11,7 +11,7 @@ to make the laravel default authentication.
 02. `php artisan ui bootstrap --auth`
 03. `npm install && npm run dev`
 
-I know it's really annoying 😕 because we have to run two commands for make it. but before releasing the laravel 6.0
+I know it's really annoying 😕 because we have to run three commands for make it. but before releasing the laravel 6.0
 we could the same thing in one command. which is,
 
  `php artisan make:auth`
