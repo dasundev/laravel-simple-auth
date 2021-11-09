@@ -23,7 +23,7 @@ artisan command will be inside your project. It's pretty cool, nah?
 Okay, let's see how can we started, 
 
 01. Install the package by running this command.
-      `composer require laravel-simple-auth`
+      `composer require dasundev/laravel-simple-auth`
       
 02. Then run the old command which is love my most developers.
       `php artisan make:auth`
