@@ -1,7 +1,6 @@
-# Laravel Simple Auth
-A Simple method to create laravel authentication for an existing laravel project.
+![laravel simple auth banner](https://user-images.githubusercontent.com/54996800/140941830-cd237786-6531-4371-bb89-184fa1c6c9da.png)
 
-![laravel simple auth 9 22 38 AM](https://user-images.githubusercontent.com/54996800/116844714-84546400-ac01-11eb-9f96-d73b12787c58.png)
+A Simple method to create laravel authentication for an existing laravel project.
 
 ## Indroduction
 Why I created this kind of package? Well, Suppose sometimes we forget to add `--auth` into a new project creation command, we will have to run below three commands
