@@ -5,7 +5,7 @@
     "keywords": [
         "laravel",
         "auth",
-        "make:auth",
+        "auth",
         "php",
         "artisan"
     ],
