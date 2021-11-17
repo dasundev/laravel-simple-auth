@@ -2,6 +2,12 @@
     "name": "dasundev/laravel-simple-auth",
     "description": "A Simple method to create laravel authentication for an existing laravel project.",
     "license": "MIT",
+    "keywords": [
+        "laravel",
+        "auth",
+        "php",
+        "artisan"
+    ],
     "authors": [
         {
             "name": "Dasun Tharanga",
