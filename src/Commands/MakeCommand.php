@@ -11,7 +11,7 @@ class MakeCommand extends Command
 
     protected $signature = 'make:auth {auth-type=bootstrap}';
 
-    protected $description = 'Create default laravel authentication';
+    protected $description = 'Re-enable the make:auth command for laravel 6+ versions.';
 
     public function __construct()
     {
