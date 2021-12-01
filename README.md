@@ -1,6 +1,6 @@
 ![laravel simple auth banner](https://user-images.githubusercontent.com/54996800/140941830-cd237786-6531-4371-bb89-184fa1c6c9da.png)
 
-A Simple method to create laravel authentication for an existing laravel project.
+Re-enable the make:auth command for laravel 6+ versions.
 
 ## Indroduction
 Why I created this kind of package? Well, Suppose sometimes we forget to add `--auth` into a new project creation command, we will have to run below three commands
