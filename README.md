@@ -1,5 +1,10 @@
 ![laravel simple auth banner](https://user-images.githubusercontent.com/54996800/140941830-cd237786-6531-4371-bb89-184fa1c6c9da.png)
 
+<p align="center">
+<a href="https://packagist.org/packages/dasundev/laravel-simple-auth"><img src="https://img.shields.io/packagist/l/dasundev/laravel-simple-auth" alt="License"></a>
+<a href="https://packagist.org/packages/dasundev/laravel-simple-auth"><img src="https://img.shields.io/packagist/dt/dasundev/laravel-simple-auth" alt="Total Downloads"></a>
+</p>
+
 Re-enable the make:auth command for laravel 6+ versions.
 
 ## Indroduction
